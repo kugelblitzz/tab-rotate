@@ -1,0 +1,19 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://www.site24x7.com/app/client#/home-msp/customers",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 2000
+    },
+    {
+      "url": "https://www.site24x7.com/app/client#/home-msp/noc-view",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 2000
+    }
+  ]
+}
